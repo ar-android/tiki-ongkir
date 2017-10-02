@@ -67,5 +67,18 @@ echo json_encode($tiki->getResult());
 }
 ```
 
+## Get Origin and Destination
+
+Untuk mendapatkan data origin dan destination silahkan buka pada urli berikut ini
+
+```
+
+https://tiki.id/etc/CariDaerah/...
+
+Contoh : 
+https://tiki.id/etc/CariDaerah/Bandung
+
+```
+
 # License
 Read [MIT License](LICENSE)
