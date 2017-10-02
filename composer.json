@@ -1,0 +1,28 @@
+{
+    "name": "ocittwo/tiki-ongkir",
+    "description": "Cek ongkos kirim tiki.id",
+    "homepage": "https://github.com/ar-android/tiki-ongkir",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmad Rosid",
+            "email": "alahmadrosid@gmail.com",
+            "homepage": "https://ahmadrosid.github.io",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tiki\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8"
+    },
+    "minimum-stability": "dev"
+}
