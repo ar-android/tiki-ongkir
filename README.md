@@ -1,8 +1,8 @@
 # Tiki Ongkir
 
-[![Build Status](http://img.shields.io/packagist/v/ocittwo/tiki-ongkir.svg)](https://packagist.org/packages/ocittwo/tiki-ongkir)
+[![Build Status](https://img.shields.io/badge/packagist-v1.0.0-blue.svg)](https://packagist.org/packages/ocittwo/tiki-ongkir)
 
-Library untuk cek ongkos kirim dengan provide tiki.
+Library untuk cek ongkos kirim dengan jasa pengiriman tiki.
 
 ## Install
 ```composer
