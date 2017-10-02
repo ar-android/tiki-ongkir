@@ -1,6 +1,6 @@
 <?php 
 
-namespace Tiki;
+namespace TikiOngkir;
 
 use Symfony\Component\DomCrawler\Crawler;
 
