@@ -78,6 +78,46 @@ https://tiki.id/etc/CariDaerah/...
 Contoh : 
 https://tiki.id/etc/CariDaerah/Bandung
 
+json => 
+[
+  {
+    "daerah": "Andir, Bandung",
+    "tariff_code": "BDO01.00",
+    "importance": "3",
+    "tariff_diff": "0"
+  },
+  {
+    "daerah": "Antapani (Cicadas), Bandung",
+    "tariff_code": "BDO01.00",
+    "importance": "3",
+    "tariff_diff": "0"
+  },
+  {
+    "daerah": "Arcamanik, Bandung",
+    "tariff_code": "BDO01.00",
+    "importance": "3",
+    "tariff_diff": "0"
+  },
+  {
+    "daerah": "Arjasari, Bandung",
+    "tariff_code": "BDO80.00",
+    "importance": "3",
+    "tariff_diff": "0"
+  },
+  {
+    "daerah": "Astana Anyar, Bandung",
+    "tariff_code": "BDO01.00",
+    "importance": "3",
+    "tariff_diff": "0"
+  },
+  {
+    "daerah": "Babakan Ciparay, Bandung",
+    "tariff_code": "BDO01.00",
+    "importance": "3",
+    "tariff_diff": "0"
+  }
+]
+
 ```
 
 # License
